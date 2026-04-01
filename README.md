@@ -9,3 +9,8 @@ End-to-end AI system using ML, DL, LLM, RAG, FastAPI, and AWS.
 - HuggingFace
 - LangChain
 - AWS
+
+## Setup
+```bash
+conda activate ai-support
+pip install -r requirements.txt
